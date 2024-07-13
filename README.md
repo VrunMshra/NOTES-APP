@@ -6,5 +6,5 @@ This is a simple note-taking app similar to Google Keep, built using React.js an
 ## How To Use
 Using this website is very easy. First you need to give the Heading of the note in the 'title' section. Then you can fill the main body of your note in the 'content' section. There is also a provision to choose color from the color box. At the top left corner there is a toggle box to switch between dark and light mode.
 
-##Varun Mishra
-##23b3985
+### Varun Mishra
+### 23b3985
